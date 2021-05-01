@@ -1,0 +1,4 @@
+name: PortalPlaceholders
+version: ${project.version}
+author: InvisRaidinq
+main: xyz.invisraidinq.portalplaceholders.PlaceholdersPlugin
